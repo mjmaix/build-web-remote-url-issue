@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "build-web-remote-url-issue",
+    "slug": "build-web-remote-url-issue",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "http://com.mjabadilla.pahina.s3-website-ap-southeast-1.amazonaws.com/public/icon.png",
+    "splash": {
+      "image": "http://com.mjabadilla.pahina.s3-website-ap-southeast-1.amazonaws.com/public/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
